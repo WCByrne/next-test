@@ -1,0 +1,21 @@
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+self["webpackHotUpdate_N_E"]("app/page",{
+
+/***/ "(app-client)/../../.yarn/unplugged/next-virtual-7e3f86bb36/node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2FWes%2Fnext-test%2F.yarn%2Funplugged%2Fnext-virtual-7e3f86bb36%2Fnode_modules%2Fnext%2Fdist%2Fclient%2Fimage.js&modules=%2FUsers%2FWes%2Fnext-test%2Fpackages%2Fblog%2Fsrc%2Fapp%2Fpage.module.css&server=false!":
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ../../.yarn/unplugged/next-virtual-7e3f86bb36/node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2FWes%2Fnext-test%2F.yarn%2Funplugged%2Fnext-virtual-7e3f86bb36%2Fnode_modules%2Fnext%2Fdist%2Fclient%2Fimage.js&modules=%2FUsers%2FWes%2Fnext-test%2Fpackages%2Fblog%2Fsrc%2Fapp%2Fpage.module.css&server=false! ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ (function(__unused_webpack_module, __unused_webpack_exports, __webpack_require__) {
+
+eval(__webpack_require__.ts("Promise.resolve(/*! import() eager */).then(__webpack_require__.t.bind(__webpack_require__, /*! ../../.yarn/unplugged/next-virtual-7e3f86bb36/node_modules/next/dist/client/image.js */ \"(app-client)/../../.yarn/unplugged/next-virtual-7e3f86bb36/node_modules/next/dist/client/image.js\", 23));\n(() => __webpack_require__.e(/*! import() */ \"_app-client_src_app_page_module_css\").then(__webpack_require__.t.bind(__webpack_require__, /*! ./src/app/page.module.css */ \"(app-client)/./src/app/page.module.css\", 23)))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1jbGllbnQpLy4uLy4uLy55YXJuL3VucGx1Z2dlZC9uZXh0LXZpcnR1YWwtN2UzZjg2YmIzNi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2J1aWxkL3dlYnBhY2svbG9hZGVycy9uZXh0LWZsaWdodC1jbGllbnQtZW50cnktbG9hZGVyLmpzP21vZHVsZXM9JTJGVXNlcnMlMkZXZXMlMkZuZXh0LXRlc3QlMkYueWFybiUyRnVucGx1Z2dlZCUyRm5leHQtdmlydHVhbC03ZTNmODZiYjM2JTJGbm9kZV9tb2R1bGVzJTJGbmV4dCUyRmRpc3QlMkZjbGllbnQlMkZpbWFnZS5qcyZtb2R1bGVzPSUyRlVzZXJzJTJGV2VzJTJGbmV4dC10ZXN0JTJGcGFja2FnZXMlMkZibG9nJTJGc3JjJTJGYXBwJTJGcGFnZS5tb2R1bGUuY3NzJnNlcnZlcj1mYWxzZSEuanMiLCJtYXBwaW5ncyI6IkFBQUEsaVNBQXdJO0FBQ3hJLE9BQU8saU5BQThGIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vX05fRS8/YjA5YiJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQoLyogd2VicGFja01vZGU6IFwiZWFnZXJcIiAqLyBcIi9Vc2Vycy9XZXMvbmV4dC10ZXN0Ly55YXJuL3VucGx1Z2dlZC9uZXh0LXZpcnR1YWwtN2UzZjg2YmIzNi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2NsaWVudC9pbWFnZS5qc1wiKTtcbigoKSA9PiBpbXBvcnQoLyogd2VicGFja01vZGU6IFwibGF6eVwiICovIFwiL1VzZXJzL1dlcy9uZXh0LXRlc3QvcGFja2FnZXMvYmxvZy9zcmMvYXBwL3BhZ2UubW9kdWxlLmNzc1wiKSkiXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(app-client)/../../.yarn/unplugged/next-virtual-7e3f86bb36/node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2FWes%2Fnext-test%2F.yarn%2Funplugged%2Fnext-virtual-7e3f86bb36%2Fnode_modules%2Fnext%2Fdist%2Fclient%2Fimage.js&modules=%2FUsers%2FWes%2Fnext-test%2Fpackages%2Fblog%2Fsrc%2Fapp%2Fpage.module.css&server=false!\n"));
+
+/***/ })
+
+});
